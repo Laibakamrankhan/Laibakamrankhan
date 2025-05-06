@@ -1,4 +1,4 @@
-- # 👋 Hi, I'm Laiba Kamran Khan
+ # 👋 Hi, I'm Laiba Kamran Khan
 
 ## 💻 About Me
 - I’m learning **Python programming**
@@ -7,7 +7,7 @@
   
 ---
 
-- ## 🚀 Goals
+ ## 🚀 Goals
 - Become a good Python developer
 - Build useful tools and apps
 - Start freelancing with Python
